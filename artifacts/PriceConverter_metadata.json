@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getPrice",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"PriceConverter.sol": "PriceConverter"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"PriceConverter.sol": {
+			"keccak256": "0x1d6fe2ecf1ca519e00852e12b8f1775027fd4ac94751c4ee0d17c6d3e640304e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6a42d1c5ad6edf54a8d0433744dcc4e1348744dadba76d0e9f15fa565f787db7",
+				"dweb:/ipfs/QmbJ8QXr5QMJCu7FHF9NCofSH6PuaNqiu9CmpzNmWaYTQc"
+			]
+		}
+	},
+	"version": 1
+}
